@@ -1,3 +1,5 @@
+# NOTE: ListenBrainz Submission plugin has been submitted upstream. See https://github.com/DeaDBeeF-Player/deadbeef/pull/3164
+
 ## About
 
 DeaDBeeF is a music player for \*nix-like systems and OS X.
